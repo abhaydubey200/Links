@@ -1,0 +1,38 @@
+
+           
+           #header {
+            background: url("imgs/header.jpeg");
+        }
+        .card-img-top {
+    display: block;
+    width: 317px; 
+    height: 300px; 
+    object-fit: cover; 
+}
+.main{
+    padding-top: 5%;
+    background-image: url(bg.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+    
+}
+.card {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Adjust values as needed */
+}
+
+.container{
+    top: 20%;
+    
+    
+}
+footer{
+    
+    padding-left: 45%;
+    padding-top: 2%;
+    .text{
+        font-size: 20px;
+        
+    }
+    
+}
